@@ -1,0 +1,17 @@
+{
+    "name": "questhomes/cross_platform_localization",
+    "description": "CPL",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8"
+    },
+    "autoload": {
+        "psr-4": {
+            "questhomes\\CPL\\": "src/"
+        }
+    }
+}
